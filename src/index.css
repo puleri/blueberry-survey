@@ -1,7 +1,16 @@
+:root {
+  --blue: #3454C2;
+  --blue-2: #377DC1;
+  --blue-3: #29A6DE;
+  --teal: #6ED6D5;
+  --gradient-1: #527ECF;
+  --gradient-2: #3FD7D7;
+  --black: #333333;
+
+}
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

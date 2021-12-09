@@ -1,0 +1,24 @@
+.home-container {
+  font-family: 'Baloo Bhaijaan 2', cursive;
+}
+
+.home-h1 {
+  font-weight: bold;
+  color: var(--blue);
+}
+
+.nav-drop-custom {
+  padding: 14px;
+  margin: 15px 25px;
+  border-radius: 5px;
+  background: linear-gradient(149deg, var(--gradient-2), var(--gradient-1));
+  text-align: center;
+}
+
+.nav-item {
+  margin: 10px;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
